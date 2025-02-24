@@ -1,0 +1,9 @@
+1) What type of numbers exist in Python?
+ integers, floating point numbers, and complex numbers
+
+2) What is the max number in Python?
+No limit in Python3, it depends on the amount of memory your system has
+
+
+3) What is dynamic typing?
+a compiler or an interpreter assigns a type to all the variables at runtime
