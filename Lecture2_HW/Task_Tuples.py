@@ -25,6 +25,7 @@ print(age, name, country)
 #Task 5: Tuple Membership
 #Given a tuple my_tuple = (1, 2, 3, 4, 5), check if the value 3 is present in the tuple. Print True if it is, and False otherwise.
 print(my_tuple[2] == 3)
+print(3 in my_tuple)
 
 #Task 6: Tuple Length
 #Given a tuple my_tuple = ("apple", "banana", "cherry", "durian"), print the number of elements in the tuple.

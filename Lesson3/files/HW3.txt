@@ -1,0 +1,23 @@
+Task 1: File Reading
+Write a Python program that reads the contents of a text file named "hw_data.txt" and prints them to the console.
+
+Task 2: File Writing
+Write a Python program that prompts the user to enter some text and saves it to a text file named "output.txt".
+
+Task 3: File Appending
+Write a Python program that prompts the user to enter a line of text and appends it to an existing text file named "hw_data.txt".
+
+Task 4: File Copying
+Write a Python program that reads the contents of a source file named "source.txt" and copies them to a destination file named "destination.txt".
+
+Task 5: File Line Count
+Write a Python program that reads a text file named "hw_data.txt" and counts the number of lines in the file. Print the line count.
+
+Task 6: File Word Count
+Write a Python program that reads a text file named "hw_data.txt" and counts the number of words in the file. Print the word count.
+
+Task 7: File Searching
+Write a Python program that prompts the user to enter a search term and searches for occurrences of that term in a text file named "hw_data.txt". Print the line numbers where the search term is found.
+
+Task 8: File Line Reversal
+Write a Python program that reads the contents of a text file named "hw_data.txt" and writes the lines in reverse order to a new text file named "reversed.txt".

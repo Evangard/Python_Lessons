@@ -6,7 +6,10 @@ print("Task 1: Dictionary Creation and Elements")
 #"age" as the key and 25 as the value.
 #"country" as the key and "USA" as the value.
 
-my_dict = {"name": "John", "age": 25, "country": "USA"}
+my_dict = {
+    "name": "John", 
+    "age": 25, 
+    "country": "USA"}
 #Print the dictionary.
 print(my_dict)
 

@@ -1,0 +1,3 @@
+task 8 as well
+task 3 too
+task 2 has completed

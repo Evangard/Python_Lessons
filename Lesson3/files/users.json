@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Dima",
+        "age": 34,
+        "children": [
+            {
+                "name": "Yevhenii",
+                "age": 5
+            }
+        ]
+    },
+    {
+        "name": "Vasyl",
+        "age": 56,
+        "children": []
+    }
+]
